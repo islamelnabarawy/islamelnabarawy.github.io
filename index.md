@@ -4,14 +4,20 @@ title: Home
 
 # Welcome!
 
-## About Me
+## About Me ##
 
 My name is Islam Elnabarawy. I'm a Ph.D. student at the Missouri University of Science and Technology. I work at the Applied Computational Intelligence Laboratory. My main interests are in neural networks, adaptive resonance theory, reinforcement learning, deep learning, and evolutionary computing.
 
-## Pages:
+## Pages ##
 
 {% for p in site.pages %}
   {% if p != page %}
 [{{ p.title }}]({{ p.url }})
   {% endif %}
+{% endfor %}
+
+## Posts ##
+
+{% for p in site.posts %}
+[{{ p.title }}]({{ p.url }})
 {% endfor %}
