@@ -9,7 +9,7 @@ description: My Publications to date
 
 Ashraf M. Abdelbar, Islam El-Nabarawy, Donald C. Wunch, and Khalid M. Salama, "[Ant colony
 optimization applied to the training of a high order neural network with
-adaptable exponential weights](1)," Applied Artificial Higher Order Neural
+adaptable exponential weights][1]," Applied Artificial Higher Order Neural
 Networks for Control and Recognition. IGI Global Press, pp. 362–374, 2016.
 
 ## Journal Papers:
@@ -25,7 +25,7 @@ ilance Fuzzy Adaptive Resonance Theory," IEEE Transactions on Neural Networks an
 Systems, submitted, 2018.
 
 Islam El-Nabarawy and Ashraf M. Abdelbar, "[Advanced learning methods and exponent
-regularization applied to a high order neural network](2)," Neural Computing and Applications,
+regularization applied to a high order neural network][2]," Neural Computing and Applications,
 vol. 25, no. 3–4, pp. 897–910, Apr. 2014.
 
 ## Conference Papers:
@@ -36,19 +36,19 @@ Joint Conference on Neural Networks (IJCNN), Rio de Janero, Brazil, 2018, accept
 
 Ayah Helal, Enas Jawdat, Islam Elnabaraway, Ashraf Abdelbar, and Donald C. Wunsch, "[Integrated
 Particle Swarm and Evolutionary Algorithm Approaches to the Quadratic Assignment
-Problem](3)," in Proceedings IEEE Symposium Series in Computational Intelligence, 2017.
+Problem][3]," in Proceedings IEEE Symposium Series in Computational Intelligence, 2017.
 
 Islam Elnabarawy, Daniel R. Tauritz, and Donald C. Wunsch, "[Evolutionary
 Computation for the Automated Design of Category Functions for Fuzzy ART: An
-Initial Exploration](4)," in GECCO 2017 - Proceedings of the Genetic and Evolutionary
+Initial Exploration][4]," in GECCO 2017 - Proceedings of the Genetic and Evolutionary
 Computation Conference Companion, 2017.
 
 Islam Elnabarawy, Donald C. Wunsch, and Ashraf M. Abdelbar, "[Biclustering ARTMAP
-Collaborative Filtering Recommender System](5)," in Proceedings of the 2016
+Collaborative Filtering Recommender System][5]," in Proceedings of the 2016
 International Joint Conference on Neural Networks (IJCNN ’16), 2016.
 
 Islam El-Nabarawy, Ashraf M. Abdelbar, and Donald C. Wunsch, "[Levenberg-Marquardt and
-Conjugate Gradient methods applied to a high-order neural network](6)," in
+Conjugate Gradient methods applied to a high-order neural network][6]," in
 Proceedings of the 2013 International Joint Conference on Neural Networks
 (IJCNN ’13), 2013, pp. 1–7.
 
