@@ -17,12 +17,12 @@ Networks for Control and Recognition. IGI Global Press, pp. 362–374, 2016.
 Islam Elnabarawy, Wei Jiang, and Donald C. Wunsch II, "Survey of Privacy-Preserving Collabora-
 tive Filtering," IEEE Transactions on Emerging Topics in Computational Intelligence, submitted, 2018.
 
-Leonardo Enzo Brito da Silva, Islam Elnabarawy, and Donald C. Wunsch II, "Dual Vigilance Fuzzy
-Adaptive Resonance Theory," Neural Networks, submitted, 2018.
-
 Leonardo Enzo Brito da Silva, Islam Elnabarawy, and Donald C. Wunsch II, "Distributed Dual Vig-
 ilance Fuzzy Adaptive Resonance Theory," IEEE Transactions on Neural Networks and Learning
 Systems, submitted, 2018.
+
+Leonardo Enzo Brito da Silva, Islam Elnabarawy, and Donald C. Wunsch II, "[Dual Vigilance Fuzzy
+Adaptive Resonance Theory][7]," Neural Networks, accepted, in press, 2018.
 
 Islam El-Nabarawy and Ashraf M. Abdelbar, "[Advanced learning methods and exponent
 regularization applied to a high order neural network][2]," Neural Computing and Applications,
@@ -67,3 +67,4 @@ Last Updated: 9/14/2018
 [4]: https://dl.acm.org/citation.cfm?id=3082056
 [5]: http://ieeexplore.ieee.org/document/7727578/
 [6]: https://ieeexplore.ieee.org/document/6707004/
+[7]: https://www.sciencedirect.com/science/article/pii/S0893608018302776?via%3Dihub
