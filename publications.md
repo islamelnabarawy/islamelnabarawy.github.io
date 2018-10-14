@@ -30,9 +30,9 @@ vol. 25, no. 3–4, pp. 897–910, Apr. 2014.
 
 ## Conference Papers:
 
-Ashraf M. Abdelbar, Islam Elnabaraway, Khalid M. Salama, and Donald C. Wunsch II, "Matrix Factor-
-ization Based Collaborative Filtering with Resilient Stochastic Gradient Descent," 2018 IEEE
-Joint Conference on Neural Networks (IJCNN), Rio de Janero, Brazil, 2018, accepted.
+Ashraf M. Abdelbar, Islam Elnabaraway, Khalid M. Salama, and Donald C. Wunsch II, "[Matrix Factor-
+ization Based Collaborative Filtering with Resilient Stochastic Gradient Descent][8]," 2018 IEEE
+Joint Conference on Neural Networks (IJCNN), Rio de Janero, Brazil, 2018.
 
 Ayah Helal, Enas Jawdat, Islam Elnabaraway, Ashraf Abdelbar, and Donald C. Wunsch, "[Integrated
 Particle Swarm and Evolutionary Algorithm Approaches to the Quadratic Assignment
@@ -68,3 +68,4 @@ Last Updated: 9/14/2018
 [5]: http://ieeexplore.ieee.org/document/7727578/
 [6]: https://ieeexplore.ieee.org/document/6707004/
 [7]: https://www.sciencedirect.com/science/article/pii/S0893608018302776?via%3Dihub
+[8]: https://ieeexplore.ieee.org/document/8489528
